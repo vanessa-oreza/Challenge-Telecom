@@ -44,5 +44,8 @@ Una vez haya cargado, hacer clic en "Subir al almacenamiento de sesión"
 Subir el archivo denominado "TelecomX_Data.json" y aceptar la advertencia
 ![image](https://github.com/user-attachments/assets/3b186f21-b727-47a8-a7df-0e8d573d89a9)
 
+## Agradecimientos
+Este proyecto fue patrocinado por ALURA LATAM en el programa de Oracle Next Generation. Muchísimas gracias.
+
 
 
